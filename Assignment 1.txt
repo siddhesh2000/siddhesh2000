@@ -1,0 +1,39 @@
+1] What do you mean by BI? Explain.
+Ans:
+Bi is a technologie that is used by enterprises for the data analysis of business information.
+This tools collect and process unstructure data from internal & external system.
+
+2]How Power-BI helps in BI, and how does it help Analysts? Explain.
+Ans:
+It is a BI and data visualization tool that leverages visual analytics to empower people and organizations in making the most of their data
+1]Extract data insights with no coding skills required.
+2] Democratize data insights with dashboards.
+3] Tell data stories with advanced data visualization.
+
+3]Explain Descriptive analytics?
+Ans:
+It is also called Descriptive statistics, is the process of using statistical techniques to describe or summarize a set of data.
+There are two types of Descriptive analytics:
+1] Univariate Descriptive Analysis
+2] Bivariate Descriptive Analysis
+
+4] Explain Predictive analytics?
+Ans:
+1]Predictive analytics is a branch of advanced analytics that makes predictions about future events, behaviors, and outcomes.
+2]Reducing employee and customer churn.
+3]Identifying customers who are most likely to default on payments.
+4]Supporting data-based sales forecasting.
+5]Setting optimal pricing.
+
+5]Explain perspective analytics?
+Ans:
+Prescriptive analytics is a process that analyzes data and provides instant recommendations on how to optimize business practices
+to suit multiple predicted outcomes.
+
+6]Write five real-life questions that PowerBi can solve.
+Ans:
+1] Prefromance of the employees in organzation?
+2] Sales Growth of the organization?
+3] Sales till the date
+4] Comparison of Current year & last year Profit %.
+5] Products Performance(High & Low sales)? 
