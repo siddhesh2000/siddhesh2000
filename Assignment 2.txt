@@ -1,0 +1,55 @@
+1]List and explain different PowerBi products?
+Ans:
+a] Power BI Desktop:
+   - It is the main Power BI Application where an Analyst can connect application to multiple data sources and analyze data to create reports to business stakeholder.
+   - This product comes with free, pro and premium versions which costs accordingly.
+b] Power Bi Service:
+  - It is a product where stakeholders can get access to reports created by developers/Analyst to see performance of their business or whatever task assigned to the Team. 
+  - Stakeholders can get access to them oce analyst publishes them in the shared workspace.
+c] Power Bi Mobile:
+  - It is similar to Power BI Service. 
+  - Stakeholders can access the reports and dashboards through Mobile/Tablet device and view them. 
+  - It is meant only for viewing contents which means users can't create dashboards in this platform.
+
+2]  What limitations of Excel, Microsoft solved by PowerBi ?
+
+Ans:
+a] The charts and visualizations are much advanced and interactive in Power BI.
+b] Power BI allows users to share reports and data and collaborate with organization where excel cannot.
+c] The analytical engine is Power BI is much more faster than Excel which can save hours in processing.
+d] The maximum number of rows and columns is limited in Excel. Power BI doesn't limit users on dimension of data.
+
+3] Explain PowerQuery?
+Ans:
+Power Query is the Heart of Power BI.
+Power Query Editor allows user to transform data and create queries in much faster way and load them to main window. 
+Power BI allows a massive variety of ways to transform data.
+data transformations could include tasks like:
+a]Convert data types – text, numbers, dates
+b]Split or merge columns
+c]Sort & filter columns
+d]Add calculated columns
+e]Remove columns, rows, blanks.
+f]Find & replace text.
+g]Unpivot data to use for pivot tables.
+
+4]Explain PowerMap?
+Ans:
+Power Map feature comes with Power BI as well as Excel from Microsoft. 
+It is a data 3D-visualization tool that lets you map your data and plot more than a million rows of data visually on Bing maps in 3-D format. 
+It is used to plot geo-spacial data in 3D mode
+
+5] Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+Ans:
+a]Admin & governance.
+b]Email subscriptions access via Admin API.
+c]Allow sharing links to include your changes to the report.
+d]Announcing Public Preview of Hybrid Tables in Power BI Premium.
+e]Deployment pipelines: assign a workspace to all pipeline stages.
+
+6] How powerBi eliminated the need to host SharePoint Server on premises?
+Ans:
+a]The DMG must be installed on a non-SQL server in your on premises environment. I could not get anything to work on my SQL server so I am thinking this has to be done on a member server.
+b]A new Gateway must be created via your bi admin center.
+c]You must register the gateway with the on premises DMG client.
+d]You can then store your credentials for the data sources on premises OR in the cloud. The benefit to storing the creds in the cloud is you can recover quicker from a system failure.
