@@ -1,0 +1,81 @@
+1]Explain the advantages of Natural Queries in PowerBi with an example?
+Ans:
+1]It requires no prior knowledge on any querying language like SQL, excel. 
+2]Querying is carried out using common and natual English language.
+3]Once dashboard is created and submitted to Business stakeholders, stakeholders find it easy to query on their own in the report submitted by the Analyst Team.
+4]Power BI shows predictions as user types the query which indeed helps user to query faster and confidently.
+5]It reduces confusion to layman.
+
+2] Explain Web Front End(WFE) cluster from Power BI Service Architecture?
+Ans:
+Power BI service Architecture contains two clusters.
+
+1]Web Front End cluster (WFE)
+Back end cluster
+Web Front End(WFE) cluster manages two important components.
+
+2]Initial connection
+User Autentication
+Frond end cluster acts as intermediary between client and back end.
+
+3]Explain Back End cluster from Power BI Service Architecture?
+Ans:
+The Power BI services at the back end take care of
+
+-visualizations
+-datasets
+-storage
+-reports
+-data connections
+-data refreshing and other interactions with Power BI.
+
+At the back-end, a web client has only two direct points of interaction
+
+Azure API Management
+Gateway Role.
+The Gateway Role acts as a gateway between user requests and the Power BI service. Users do not interact directly with any roles other than the Gateway Role. Azure API Management will eventually handle the Gateway Role. Azure API Management will eventually handle the Gateway Role.
+
+These two components are responsible for load balancing, authentication, authorization, routing, etc.
+
+4]What ASP.NET component does in Power BI Service Architecture?
+Ans:
+ASP.NET is a web development platform provided by microsoft.
+
+ASP ==> Active Server Page
+NET ==> Network Enabled Technologies
+ASP.NET component plays a major role while publishing reports and dashboards to workspace where stakeholder interact with it in front end provided by Power BI service. Not only that, BI dashboards can also be accessed through other apps like Microsoft teams which embeds BI Applicaiton through ASP.NET framework
+
+5]Compare Microsoft Excel and PowerBi Desktop on the following features:
+
+Particulers                   Ms Excel                                        Power Bi Desktop
+
+1] Data Import          Excel Can get data from limited Sources with           PBIcan excusivlely get data from 80+data sources.
+                        "Power Query"                
+2] Reporting            Excel report are normal and ordinary comparing        Pbi offers beautiful,branded reports comparing excel.
+                        power bi  
+3] Convert Models       Complex models cannot be converted & used in Excel.   In PBI its possible.
+
+4] Cost                 Its less expensive as compared to PBI.                PBI takes 10$ for sharing of reports to others.
+
+6] List 20 data sources supported by Power Bi desktop.
+Ans:
+1]Access database
+2]Oracle Database
+3]IBM Netezza
+4]Mysql Database
+5]Postgre Database
+6]Teradata Database
+7]Amazon Redshift
+8]Impala
+9]Google Bin query
+10]Vertica
+11]Snowflake
+12]Essbake
+13]Azure SQL Database
+14]Sharepoint Online list
+15]Microsoft Exchange online
+16]Dynamics 365(online)
+17]Adobe Analytics
+18]Github(beta)
+19]Linkedin Sales Navigator(Beta)
+20]Twilio(beta).
